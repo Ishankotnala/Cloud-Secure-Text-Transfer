@@ -14,3 +14,6 @@ A secure peer-to-peer file and text sharing application leveraging advanced cryp
 
 ## 🚀 Overview
 This project was developed to demonstrate a practical implementation of secure systems design, focusing on protecting data in transit using industry-standard encryption protocols.
+
+## 🤝 Acknowledgements
+This project utilizes the foundational cryptography library developed by Parth Trehan and Hardik Gaur. The core application logic, cloud integration, and peer-to-peer networking architecture were developed independently on top of this framework.
